@@ -5,8 +5,10 @@ let listaDeObjetos = [{
     cursa : "Desarrollo web full stack"
 },
 {
-    nombre : "",
-    apellido : "",
-    edad : Number, 
-    cursa : ""
+    nombre : "Heidy",
+    apellido : "Diaz",
+    edad : 43, 
+    cursa : "Desarrollo web full stack"
+    
+    
 }]
